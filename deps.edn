@@ -2,4 +2,4 @@
         org.clojure/core.async {:mvn/version "1.6.673"}
         clj-http/clj-http {:mvn/version "3.13.0"}
         cheshire/cheshire {:mvn/version "5.13.0"}
-        net.clojars.laoc/nostr {:local/root "/home/laoc/coding/nostr-clj"}}}
+        net.clojars.laoc/nostr {:mvn/version "0.0.7"}}}
